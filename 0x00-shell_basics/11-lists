@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ulta ./ ../ /boot
+ls -Ula ./ ../ /boot
