@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -UXla ./ ../ /boot
+ls -Ul ./ ../ /boot
